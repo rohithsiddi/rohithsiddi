@@ -9,14 +9,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/rohith-siddi-4a57241a3/">
+  <a href="https://www.linkedin.com/in/rohith-siddi-4a57241a3/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohith siddi" height="30" width="40" />
   </a>
-  &nbsp; <!-- Add some spacing between the icons -->
-  <a href="mailto:rohithsiddi7@gmail.com">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Gmail_Logo_2023.png" alt="rohith siddi" height="30" width="40" />
+  <a href="mailto:rohithsiddi7@gmail.com" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="40" />
   </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
