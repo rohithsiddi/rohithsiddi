@@ -1,70 +1,64 @@
 <h1 align="center">Hi 👋, I'm Rohith</h1>
 <h3 align="center">An AI enthusiast from India</h3>
 
-- 🌱 I have expertise in **Machine Learning, Deep Learning, Data Analytics, Generative AI, **
-
+- 🌱 I have expertise in **Machine Learning, Deep Learning, Data Analytics, Generative AI**
 - 💡 Passionate about solving real-world problems using AI and Data Science.
-
-- 💬 Feel free to reachout to talk about **Data Science, ML, DL, Python**, or anything tech-related!
+- 💬 Feel free to reach out to talk about **Data Science, ML, DL, Python**, or anything tech-related!
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<div align="left">
   <a href="https://www.linkedin.com/in/rohith-siddi-4a57241a3/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohith siddi" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:rohithsiddi7@gmail.com" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" height="30" width="40" />
   </a>
-</p>
-
-
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<div align="left">
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
 
   <!-- Pandas -->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   </a>
 
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
 
   <!-- Seaborn -->
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
   </a>
 
   <!-- Matplotlib -->
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
   </a>
 
   <!-- Scikit-learn -->
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
   </a>
 
   <!-- PyTorch -->
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
   </a>
 
   <!-- Hugging Face Transformers -->
   <a href="https://huggingface.co/transformers/" target="_blank" rel="noreferrer">
-    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="huggingface transformers" width="40" height="40"/>
+    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face Transformers" width="40" height="40"/>
   </a>
 
   <!-- Tableau -->
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
   </a>
-</p>
-
-
+</div>
