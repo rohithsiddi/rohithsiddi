@@ -6,14 +6,22 @@
 - 💬 Feel free to reach out to talk about **Data Science, ML, DL, Python**, or anything tech-related!
 
 <h3 align="left">Connect with me:</h3>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://www.linkedin.com/in/rohith-siddi-4a57241a3/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="mailto:rohithsiddi7@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="30" width="40" />
-  </a>
-</div>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/rohith-siddi-4a57241a3/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="mailto:rohithsiddi7@gmail.com" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="30" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 
